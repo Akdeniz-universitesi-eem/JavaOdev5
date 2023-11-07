@@ -1,4 +1,4 @@
-/*
+/*Güneş Özen 20200855053
  * 1)UML (Unified Modeling Language), yazılım ve sistemlerin analiz edilmesi, tasarlanması, görselleştirilmesi, belgelenmesi ve yazılım sistemlerinin karmaşıklığını yönetmek için kullanılan bir standartlaştırılmış bir modelleme dilidir. 
  * Sınıf diyagramları, en yaygın UML diyagramlarından biridir aşağıda belirtilen başlıca işlevlerle birlikte kullanılır:
  * a)Modelleme: UML, bir sistem veya yazılım ürününün farklı yönlerini modellemek için kullanılır.
